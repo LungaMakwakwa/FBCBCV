@@ -1,7 +1,7 @@
 <?php
 
 	include("Messenger.php");
-    $apiKey = "EAAIDB7kFR8YBAKcSFIHGAemXVzAwmeyvy3vSen3WrNGoFdSiQWg88Ak766jPvuXPNtELMVSIGR1lsiDRN9BgZAkYv7quRxNzbgPCadJJtXlakrqMg9BwaIYsj6cdGiYrAs4nI8xGr7OvZBIZCbsrftlcZAJwkZBdvB2gZCMga7gwZDZD";
+    $apiKey = "" //facebook webhook api key;
     
 
 	// Instances the Facebook class
